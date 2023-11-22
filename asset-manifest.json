@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DCG-Movies-React/static/css/main.6387256d.css",
+    "main.js": "/DCG-Movies-React/static/js/main.bc8fea0c.js",
+    "static/media/splash.png": "/DCG-Movies-React/static/media/splash.b1e974730ab35d4789bd.png",
+    "static/media/edit-btn.png": "/DCG-Movies-React/static/media/edit-btn.0f46e2728eb984e21ce8.png",
+    "index.html": "/DCG-Movies-React/index.html",
+    "main.6387256d.css.map": "/DCG-Movies-React/static/css/main.6387256d.css.map",
+    "main.bc8fea0c.js.map": "/DCG-Movies-React/static/js/main.bc8fea0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6387256d.css",
+    "static/js/main.bc8fea0c.js"
+  ]
+}
